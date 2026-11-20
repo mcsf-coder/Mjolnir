@@ -1,0 +1,9 @@
+name: Mjolnir
+version: '1.0'
+main: org.mjolnir.mjolnir.Mjolnir
+api-version: '26.3'
+commands:
+  mjolnir:
+    description: Gives you Mjolnir
+    usage: /mjolnir
+    permission: mjolnir.admin
